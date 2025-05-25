@@ -1,0 +1,20 @@
+{
+  "name": "classy-femininity",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^15.1.3",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "@polar-sh/nextjs": "^0.1.5",
+    "openai": "^4.0.0",
+    "swiper": "^10.0.0",
+    "tailwindcss": "^3.4.0",
+    "@heroicons/react": "^2.0.0"
+  }
+}
